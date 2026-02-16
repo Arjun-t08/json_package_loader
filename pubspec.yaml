@@ -1,0 +1,22 @@
+name: json_page_loader
+description: A powerful and extensible Flutter package for generating dynamic UI from JSON following SOLID principles.
+version: 1.0.0
+homepage: https://github.com/user/json_page_loader
+repository: https://github.com/user/json_page_loader
+issue_tracker: https://github.com/user/json_page_loader/issues
+
+environment:
+  sdk: '>=3.10.7 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
